@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FPT-SHOP\\source\\repos\\Trainning\\ASP-MVC-NET7\\Tranning\\Tranning.csproj": {}
+    "C:\\Users\\FPT-SHOP\\source\\repos\\ASP-MVC-NET7-main\\Tranning\\Tranning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FPT-SHOP\\source\\repos\\Trainning\\ASP-MVC-NET7\\Tranning\\Tranning.csproj": {
+    "C:\\Users\\FPT-SHOP\\source\\repos\\ASP-MVC-NET7-main\\Tranning\\Tranning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FPT-SHOP\\source\\repos\\Trainning\\ASP-MVC-NET7\\Tranning\\Tranning.csproj",
+        "projectUniqueName": "C:\\Users\\FPT-SHOP\\source\\repos\\ASP-MVC-NET7-main\\Tranning\\Tranning.csproj",
         "projectName": "Tranning",
-        "projectPath": "C:\\Users\\FPT-SHOP\\source\\repos\\Trainning\\ASP-MVC-NET7\\Tranning\\Tranning.csproj",
+        "projectPath": "C:\\Users\\FPT-SHOP\\source\\repos\\ASP-MVC-NET7-main\\Tranning\\Tranning.csproj",
         "packagesPath": "C:\\Users\\FPT-SHOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FPT-SHOP\\source\\repos\\Trainning\\ASP-MVC-NET7\\Tranning\\obj\\",
+        "outputPath": "C:\\Users\\FPT-SHOP\\source\\repos\\ASP-MVC-NET7-main\\Tranning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FPT-SHOP\\AppData\\Roaming\\NuGet\\NuGet.Config",

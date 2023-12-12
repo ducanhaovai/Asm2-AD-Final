@@ -30,10 +30,14 @@ namespace Tranning.Queries
                         dataUser.UserID = reader["id"].ToString();
                         dataUser.Username = reader["username"].ToString();
                         dataUser.EmailUser = reader["email"].ToString();
-                        dataUser.RoleID = reader["role_id"].ToString();
+                        dataUser.RoleID = Convert.ToInt32(reader["role_id"]);
+
                         dataUser.PhoneUser = reader["phone"].ToString();
                         dataUser.FullName = reader["full_name"].ToString();
-                        dataUser.ExtraCode = reader["extra_code"].ToString();
+                        
+                        dataUser.Gender = reader["gender"].ToString();
+                        dataUser.Status = reader["status"].ToString();
+
                     }
                     // ngat ket noi toi database
                     conn.Close();

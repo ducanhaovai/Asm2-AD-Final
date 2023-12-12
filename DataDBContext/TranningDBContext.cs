@@ -8,5 +8,10 @@ namespace Tranning.DataDBContext
         {
         }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<Course> Courses { get; set; }
+
+        public DbSet<Topic> Topics { get; set; }
+        public DbSet<Role> Roles { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

@@ -17,11 +17,11 @@ namespace Tranning.DataDBContext
         [Column("description", TypeName = "Varchar(100)"), AllowNull]
         public string? description { get; set; }
 
-        [Column("icon", TypeName = "Varchar(50)"), AllowNull]
+        [Column("icon", TypeName = "Varchar(200)"), AllowNull]
         public string? icon { get; set; }
 
-        [Column("status", TypeName = "Integer"), Required]
-        public int status { get; set; }
+        [Column("status", TypeName = "Varchar(50)"), Required]
+        public string status { get; set; }
 
         [AllowNull]
         public DateTime? created_at { get; set; }
